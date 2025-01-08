@@ -2,6 +2,8 @@
 
 A simple RESTful API for managing personal expenses. This project allows users to add, update, delete, and fetch expenses. It includes user authentication, filtering options, and data validation.
 
+https://roadmap.sh/projects/expense-tracker-api
+
 ## Table of Contents
 
 - [Introduction](#introduction)
